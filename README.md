@@ -2,8 +2,9 @@
 ![ss](https://github.com/user-attachments/assets/ff2a9cd7-5a8d-4a47-ae09-7d448df1b56d)
 
 
+
 # 💫 About Me:
-🔭 I’m currently working on Telecom industry<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning Python<br>💬 Ask me about<br>⚡ Fun fact I love cats
+🔭 I’m currently working on Telecom industry<br>👯 I’m looking to be all-in-one Engineer <br>🤝 I’m looking for help with<br>🌱 I’m currently learning Python<br>💬 Ask me about<br>⚡ Fun fact I love cats
 
 
 
