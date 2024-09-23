@@ -4,7 +4,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on Telecom industry<br>👯 I’m looking to be all-in-one Engineer <br>🤝 I’m looking for help with<br>🌱 I’m currently learning Python<br>💬 Ask me about<br>⚡ Fun fact I love cats
+🔭 I’m currently working on Telecom industry<br>👯 I’m looking to be all-in-one Engineer <br>🤝 I’m looking for help with Python programming <br>🌱 I’m currently learning Python<br>⚡ Fun fact: I love cats
 
 
 
