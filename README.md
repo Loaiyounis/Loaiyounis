@@ -1,4 +1,5 @@
-# Hi I'm Loai Younis ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) ## A motivated NOC Engineer
+# Hi I'm Loai Younis ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) 
+## A motivated NOC Engineer
 ![ss](https://github.com/user-attachments/assets/ff2a9cd7-5a8d-4a47-ae09-7d448df1b56d)
 # 💫 About Me:
 🔭 I’m currently working on Telecom industry<br>👯 I’m looking to be all-in-one Engineer <br>🤝 I’m looking for help with Python programming <br>🌱 I’m currently learning Python<br>⚡ Fun fact: I love cats
