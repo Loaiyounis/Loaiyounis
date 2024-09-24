@@ -1,4 +1,7 @@
 
+![clideo_editor_4478f12cdb50491689085b7fd9fd2754](https://github.com/user-attachments/assets/1634afce-87b1-4e6b-94d3-43d3c0adc548)
+
+
 ![ss](https://github.com/user-attachments/assets/ff2a9cd7-5a8d-4a47-ae09-7d448df1b56d)
 
 
@@ -12,6 +15,10 @@
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/LoayzYounis) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/loay_younis) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lzy221) 
 
+# -----------------------------------------------------------------------------
+
+![wws](https://github.com/user-attachments/assets/97cdc13e-88bc-4d1e-8638-f198b4c49815)
+
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 # 📊 GitHub Stats:
@@ -21,10 +28,3 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Loaiyounis&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=Loaiyounis&icon=2&color=0)](https://visitcount.itsvg.in)
-
-
-
-
